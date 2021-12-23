@@ -1,0 +1,1 @@
+{"jobID":"8d1dc475-9451-9c43-2597-2d8b0495753d","spec":{"type":"policy","cause":{"Message":"","User":"nichgul \u003cnicholas.gulrajani@ignw.io\u003e"},"spec":{"default:deployment/sample-app":{"add":{"automated":"true"},"remove":{}}}},"result":null}
